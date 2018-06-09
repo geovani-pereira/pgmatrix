@@ -4,5 +4,3 @@ O Sistema PG Matrix tem a finalidade de organizar as tarefas diárias de uma emp
     O Menu do usuário Admin é completo, contendo os menus de Produtos, Serviços, Clientes, Ordens de Serviço, Despesas, Relatório, Usuários e Logs; já o Menu do usuário Funcionário é reduzido aos temas que lhe compete: Produtos, Serviços, Clientes e Ordens de Serviços. 
     Os Menus de PG Matrix são eficientes, pois contam com ferramentas de prática manipulação.
 
-
-testando
